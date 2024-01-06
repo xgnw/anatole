@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
-标题 = "Website of Jane Doe"
+标题 = "小威的EMO"
 
 # theme as hugo module
 #theme = "github.com/xgnw/anatole"
