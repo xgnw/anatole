@@ -1,12 +1,12 @@
 baseURL = "https://example.com"
-languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
+标题 = "Website of Jane Doe"
 
 # theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
+#theme = "github.com/xgnw/anatole"
 # theme as git submodule
-theme = "anatole"
+主题 = "anatole"
 
 summarylength = 10
 enableEmoji = true
@@ -41,8 +41,8 @@ localizedDates = false
   threshold = 80
   toLower = true
 [[related.indices]]
-  name = 'keywords'
+  名字 = 'keywords'
   weight = 100
 [[related.indices]]
-  name = 'tags'
+  名字 = 'tags'
   weight = 80
