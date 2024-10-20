@@ -1,22 +1,18 @@
-baseURL = "https://example.com"
+baseURL = "https://432600.xyz"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
-标题 = "小威的EMO"
+title = "小威的EMO"
 
 # theme as hugo module
-#theme = "github.com/xgnw/anatole"
+#theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-主题 = "anatole"
+theme = "anatole"
 
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-# Enable Disqus
-#disqusShortname = ""
 
-# Google Analytics
-#googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
@@ -41,8 +37,16 @@ localizedDates = false
   threshold = 80
   toLower = true
 [[related.indices]]
-  名字 = 'keywords'
+  name = 'keywords'
   weight = 100
 [[related.indices]]
-  名字 = 'tags'
+  name = 'tags'
   weight = 80
+
+[services]
+# Enable Disqus.Disqus.Shortname
+  [services.disqus]
+    #shortname = 'your-disqus-shortname'
+# Google Analytics
+  [services.googleAnalytics]
+    #ID = 'G-MEASUREMENT_ID'
