@@ -1,10 +1,8 @@
 
-title = "小威的EMO"
-author = "小威"
-#copyright = "2020-                <script>
-                    document.write(' - ' + (new Date()).getFullYear())
-                </script>"
-description = "小威"
+title = "I'm Jane Doe"
+author = "Jane Doe"
+#copyright = "2020-2021"
+description = "Call me Jane"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
