@@ -10,11 +10,11 @@
   identifier = "posts"
   url = "/post/"
 
-  [[main]]
-  name = "作品"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+  #[[main]]
+  #name = "作品"
+  #weight = 300
+  #identifier = "portfolio"
+  #url = "/portfolio/"
 
   [[main]]
   name = "关于"
@@ -22,11 +22,11 @@
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-  name = "留言"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
+  #[[main]]
+  #name = "留言"
+  #weight = 500
+  #identifier = "contact"
+  #url = "/contact/"
 
   [[footer]]
   name = "简单导航"
