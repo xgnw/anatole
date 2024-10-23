@@ -81,24 +81,9 @@
             ></label>
             <div class="optionswitch__triangle"></div>
             <ul class="optionswitch__list">
-              {{ range $.Translations }}
-                <li class="optionswitch__list-item">
-                  <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}"
-                    ><span
-                      {{ if eq . $.Site.Language }}
-                        class="active"
-                      {{ end }}
-                      aria-label="{{ i18n "ariaLanguage" }}{{ .Language.LanguageName }}"
-                      >{{ .Language.LanguageName }}</span
-                    >
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </li>
-      {{ end }}
+
       {{ if not .Site.Params.disableThemeSwitcher }}
+        <li class="nav__list-item">
           <div class="themeswitch">
             <a title="开关灯">
               <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>

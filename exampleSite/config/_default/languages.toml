@@ -1,8 +1,8 @@
-#[zh-cn]
-#title = "小威的EMO"
-#weight = 1
-#LanguageName = "zh-cn"
-#contentDir = "content/cn"
+[zh-cn]
+title = "小威的EMO"
+weight = 1
+LanguageName = "zh-cn"
+contentDir = "content"
 
 #[en]
 #title = "My blog"
