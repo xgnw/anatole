@@ -59,7 +59,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fa-brands fa-qq"
 title = "QQ"
-url = "tencent://message/?uin=1223112302"
+url = "http://wpa.qq.com/msgrd?v=3&uin=1223112302&site=qq&menu=yes"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
