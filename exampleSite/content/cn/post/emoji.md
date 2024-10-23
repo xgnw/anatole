@@ -1,4 +1,4 @@
----
++++
 title: "Emoji 表情"
 description: "Hugo 和 NexT 中的 Emoji 的用法指南。"
 keywords: "Hugo,NexT,Emoji"
@@ -13,7 +13,12 @@ tags:
  - emoji
 
 url: post/emoji.html
----
++++
+
+Emoji can be enabled in a Hugo project in a number of ways.
+
+<!--more-->
+
 
 Emoji表情
 =========
