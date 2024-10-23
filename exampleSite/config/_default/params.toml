@@ -1,8 +1,8 @@
 
 title = "爸比娃娃"
-author = "我是一个吃苦耐劳的享乐主义者。"
-#copyright = "2020-2021"
-description = "Call me Jane"
+author = "爸比娃娃的自留地"
+#copyright = "2020-2024"
+description = "我是一个吃苦耐劳的享乐主义者。"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -57,14 +57,14 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fa-brands fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
+icon = "fa fa-qq"
+title = "QQ"
+url = "tencent://message/?uin=1223112302"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/babiwawa/"
 
 [[socialIcons]]
 icon = "fa-brands fa-instagram"
@@ -74,7 +74,7 @@ url = "https://www.instagram.com/"
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:fflpweb@126.com"
 
 [mermaid]
 # enable = true

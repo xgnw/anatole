@@ -1,5 +1,5 @@
   [[main]]
-  name = "主页"
+  name = "首页"
   identifier = "home"
   weight = 100
   url = "/"
@@ -48,7 +48,7 @@
   url = "/contact/"
 
   [[footer]]
-  name = "imprint"
+  name = "简单导航"
   weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  identifier = "jiandan"
+  url = "https://432600.xyz/"

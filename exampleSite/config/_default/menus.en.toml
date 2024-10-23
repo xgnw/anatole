@@ -48,7 +48,7 @@
   url = "/contact/"
 
   [[footer]]
-  name = "imprint"
+  name = "nav"
   weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  identifier = "jiandan"
+  url = "https://432600.xyz/"
