@@ -2,7 +2,7 @@
 title = "小威的EMO"
 weight = 1
 LanguageName = "zh-cn"
-contentDir = "content"
+contentDir = "content/cn"
 
 #[en]
 #title = "My blog"
