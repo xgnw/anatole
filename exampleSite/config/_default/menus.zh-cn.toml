@@ -23,8 +23,27 @@
   url = "/about/"
 
   [[main]]
-  name = "留言"
+  name = "Accomplishments"
   weight = 500
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Awards"
+  weight = 510
+  identifier = "awards"
+  url = "/awards/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "Certifications"
+  weight = 520
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "留言"
+  weight = 600
   identifier = "contact"
   url = "/contact/"
 
@@ -33,9 +52,3 @@
   weight = 1
   identifier = "jiandan"
   url = "https://432600.xyz/"
-
-  [[footer]]
-  name = "小威的博客"
-  weight = 2
-  identifier = "xw"
-  url = "https://blog.432600.xyz/"
