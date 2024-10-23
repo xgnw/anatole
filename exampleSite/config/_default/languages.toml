@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 [zh-cn]
 title = "小威的EMO"
 weight = 1
 LanguageName = "zh-cn"
 contentDir = "content/cn"
+=======
+#[zh-cn]
+#title = "小威的EMO"
+#weight = 1
+#LanguageName = "zh-cn"
+#contentDir = "content/cn"
+>>>>>>> parent of f98dcfa (1)
 
 #[en]
 #title = "My blog"
