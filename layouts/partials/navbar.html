@@ -72,9 +72,37 @@
       {{ end }}
     </ul>
     <ul class="nav__list nav__list--end">
+<<<<<<< HEAD
 
-      {{ if not .Site.Params.disableThemeSwitcher }}
+=======
+      {{ if and .IsTranslated hugo.IsMultilingual }}
         <li class="nav__list-item">
+          <div class="optionswitch">
+            <input class="optionswitch__picker" type="checkbox" id="languagepicker" hidden />
+            <label class="optionswitch__label" for="languagepicker"
+              >{{ .Site.Language.LanguageName }} <i class="fa fa-angle-down" aria-hidden="true"></i
+            ></label>
+            <div class="optionswitch__triangle"></div>
+            <ul class="optionswitch__list">
+              {{ range $.Translations }}
+                <li class="optionswitch__list-item">
+                  <a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}"
+                    ><span
+                      {{ if eq . $.Site.Language }}
+                        class="active"
+                      {{ end }}
+                      aria-label="{{ i18n "ariaLanguage" }}{{ .Language.LanguageName }}"
+                      >{{ .Language.LanguageName }}</span
+                    >
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </li>
+      {{ end }}
+>>>>>>> parent of f98dcfa (1)
+      {{ if not .Site.Params.disableThemeSwitcher }}
           <div class="themeswitch">
             <a title="开关灯">
               <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
