@@ -1,24 +1,16 @@
 +++
-title: "Emoji 表情"
-description: "Hugo 和 NexT 中的 Emoji 的用法指南。"
-keywords: "Hugo,NexT,Emoji"
-
-date: 2022-08-04T19:46:45+08:00
-lastmod: 2022-08-04T19:46:45+08:00
-
-categories:
- - 示例
-tags:
- - 表情
- - emoji
-
-url: post/emoji.html
+author = "爸比娃娃"
+title = "Emoji表情"
+date = "2019-03-05"
+description = "Guide to emoji usage in Hugo"
+tags = [
+    "emoji",
+]
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways.
 
 <!--more-->
-
 
 Emoji表情
 =========
