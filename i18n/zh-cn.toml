@@ -9,10 +9,10 @@ one = "阅读时间 1 分钟"
 other = "阅读时间 {{ .Count }} 分钟"
 
 [page_not_found]
-other = "页面未找到"
+other = "很抱歉"
 
 [page_does_not_exist]
-other = "抱歉，此页面不存在"
+other = "您好像输入了错误的地址"
 
 [head_back]
 other = "返回<a href=\"{{ . }}\">首页</a>."
