@@ -33,3 +33,9 @@
   weight = 1
   identifier = "jiandan"
   url = "https://432600.xyz/"
+
+  [[footer]]
+  name = "小威的博客"
+  weight = 2
+  identifier = "xw"
+  url = "https://blog.432600.xyz/"
