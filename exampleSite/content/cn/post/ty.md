@@ -7,10 +7,10 @@ draft = false
 typora 破解版
 
 > 之前发布的算法破解已经失效。提示版本过低。这次更新一下最新版本如何破解教程
-
+<!--more-->
 # Typora v1.9.5 激活
 
-安装Typora([https://typoraio.cn/](https://lb5.net/go/aHR0cHM6Ly90eXBvcmFpby5jbi8)) 打开官网 下载并安装最新版即可，这里不再提供安装包
+安装Typora([https://typoraio.cn/](https://typoraio.cn/)) 打开官网 下载并安装最新版即可，这里不再提供安装包
 
 # 修改文件
 
