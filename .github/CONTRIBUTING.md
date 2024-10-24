@@ -31,4 +31,4 @@ In order to ensure the maintainability and quality of the project, a set of comm
 
 ## Thank You
 
-Lastly, it is worth mentioning that this project would not be possible without contributors and supports like you. Even if you are not a programmer but still want to support the development, consider [sponsoring](https://ko-fi.com/lxndrblz) this project.
+Lastly, it is worth mentioning that this project would not be possible without contributors and supports like you. Even if you are not a programmer but still want to support the development, consider [sponsoring](https://baidu.com) this project.
