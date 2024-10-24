@@ -4,8 +4,6 @@ date = 2024-09-25T20:32:34+08:00
 draft = false
 +++
 
-# 提问的智慧
-
 **How To Ask Questions The Smart Way**
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
