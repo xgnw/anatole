@@ -3,7 +3,7 @@ title = "关于本站"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "爸比娃娃"
 +++
 
 ## 这里是？
@@ -66,7 +66,9 @@ author = "Hugo Authors"
 >
 >使用微信的内置浏览器打开其他网页，也有根据所谓“相关法律法规”被屏蔽的可能。
 
-## 关于为什么要给博客写一段介绍，New Bing （x GitHub Copilot）的回答如下：
+## 关于为什么要给博客写一段介绍
+
+New Bing （x GitHub Copilot）的回答如下：
 
 给自己的博客写一段介绍有很多好处，比如：
 
