@@ -1,4 +1,3 @@
-```
 ---
 title: 🌞 导航
 aliases: [nav]
@@ -33,5 +32,3 @@ date: 2024-10-26 14:11
 - bookmark item one https://bookmark-item-one.com
 - bookmark item two https://bookmark-item-two.com
 - bookmark item three https://bookmark-item-three.com
-
-```

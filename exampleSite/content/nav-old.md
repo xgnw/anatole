@@ -1,9 +1,8 @@
-```
 ---
 title: Nav
 aliases: [nav]
 type: nav
-date: 2023-05-26 14:11
+date: 2023-10-26 14:11
 ---
 
 <div class="nav">
@@ -32,5 +31,3 @@ date: 2023-05-26 14:11
 - bookmark item three https://bookmark-item-three.com
 
 </div>
-
-```
