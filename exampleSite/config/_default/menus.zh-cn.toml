@@ -10,11 +10,11 @@
   identifier = "posts"
   url = "/post/"
 
-  #[[main]]
-  #name = "作品"
-  #weight = 300
-  #identifier = "portfolio"
-  #url = "/portfolio/"
+  [[main]]
+  name = "友情链接"
+  weight = 300
+  identifier = "links"
+  url = "/links/"
 
   [[main]]
   name = "关于"
