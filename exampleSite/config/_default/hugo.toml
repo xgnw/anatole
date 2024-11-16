@@ -9,6 +9,7 @@ title = "爸比娃娃的自留地"
 theme = "anatole"
 
 summarylength = 10
+hasCJKLanguage = true
 enableEmoji = true
 enableRobotsTXT = true
 
