@@ -115,6 +115,7 @@ tags = [
 ##第二步：
 将以下代码填写入头部文件 一般都为 header.php
 
+```
 <div id="Loadanimation" style="z-index:999999;">
 <div id="Loadanimation-center">
     <div id="Loadanimation-center-absolute">
@@ -130,6 +131,8 @@ $(function(){
     $("#Loadanimation").fadeOut(540); 
 });
 </script>
+```
+
 注意 注意 fadeOut 里面填写的是毫秒数
 
 ###后言
